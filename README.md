@@ -3,7 +3,7 @@
 # GoldenDict-ng-AppImage 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/GoldenDict-ng-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/GoldenDict-ng-AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/GoldenDict-ng-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/GoldenDict-ng-AppImage/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/GoldenDict-ng-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/GoldenDict-ng-AppImage/releases/latest)
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/GoldenDict-ng-AppImage)](https://github.com/pkgforge-dev/GoldenDict-ng-AppImage/releases/latest)
 
 <p align="center">
